@@ -1,2 +1,2 @@
-# GeneratePDFXamarin
-Generate PDF in xamarin form using plugin PDFSharp.Xamarin.Forms
+# Send Email Xamarin
+Send email in xamarin form using plugin PDFSharp.Xamarin.Forms
