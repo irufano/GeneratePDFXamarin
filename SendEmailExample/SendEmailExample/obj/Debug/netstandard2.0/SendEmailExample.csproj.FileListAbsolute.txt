@@ -1,0 +1,14 @@
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\bin\Debug\netstandard2.0\SendEmailExample.deps.json
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\bin\Debug\netstandard2.0\SendEmailExample.dll
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\bin\Debug\netstandard2.0\ref\SendEmailExample.dll
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\bin\Debug\netstandard2.0\SendEmailExample.pdb
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.csprojAssemblyReference.cache
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.csproj.CoreCompileInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.AssemblyInfoInputs.cache
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.AssemblyInfo.cs
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.dll
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\ref\SendEmailExample.dll
+D:\MISGROUP\Project\Xamarin\Example\SendEmailExample\SendEmailExample\SendEmailExample\obj\Debug\netstandard2.0\SendEmailExample.pdb

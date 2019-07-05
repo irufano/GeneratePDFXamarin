@@ -7,10 +7,15 @@
              x:Class="SendEmailExample.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            <Image Margin="0,50,0,0" x:Name="imgBanner" Source="banner.png" ></Image>
+            <Image Margin="0,0,0,10" x:Name="imgXamarinEssential" Source="xamarinessential.png" ></Image>
+            <Label Margin="0,0,0,10" FontAttributes="Bold" FontSize="Large" TextColor="#CA6F1E" HorizontalTextAlignment="Center" Text="Mail"></Label>
+            <Entry x:Name="txtTo" Placeholder="someone@example.com"></Entry>
+            <Entry x:Name="txtSubject" Placeholder="Subject"></Entry>
+            <Editor x:Name="txtBody" HeightRequest="50" ></Editor>
+            <Button x:Name="btnSend" Text="Send Mail" Clicked="BtnSend_Clicked"/>
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
